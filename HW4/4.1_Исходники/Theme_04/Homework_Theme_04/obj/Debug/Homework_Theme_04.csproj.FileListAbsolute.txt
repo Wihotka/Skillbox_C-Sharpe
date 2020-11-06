@@ -1,0 +1,7 @@
+C:\Users\meooo\Desktop\Code\Skillbox\GAMES\3.C#\HW4\4.1_Исходники\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe.config
+C:\Users\meooo\Desktop\Code\Skillbox\GAMES\3.C#\HW4\4.1_Исходники\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe
+C:\Users\meooo\Desktop\Code\Skillbox\GAMES\3.C#\HW4\4.1_Исходники\Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.pdb
+C:\Users\meooo\Desktop\Code\Skillbox\GAMES\3.C#\HW4\4.1_Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.csprojAssemblyReference.cache
+C:\Users\meooo\Desktop\Code\Skillbox\GAMES\3.C#\HW4\4.1_Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.csproj.CoreCompileInputs.cache
+C:\Users\meooo\Desktop\Code\Skillbox\GAMES\3.C#\HW4\4.1_Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.exe
+C:\Users\meooo\Desktop\Code\Skillbox\GAMES\3.C#\HW4\4.1_Исходники\Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.pdb
